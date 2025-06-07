@@ -60,11 +60,6 @@ Output variable:
 - Visualizing predicted vs actual BEC values
 - Hyperparameter tuning
 
-# Author
-
-Dipti Mishra  
-MSc Biotechnology, Batch 1  
-MIT-WPU, Pune  
 
 
 
